@@ -1,0 +1,14 @@
+{
+  "name": "css-challenge",
+  "version": "1.0.0",
+  "description": "CSS challenges",
+  "scripts": {
+    "lint-css": "npx stylelint **/*.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^14.6.1",
+    "stylelint-config-standard": "^25.0.0"
+  }
+}
